@@ -1,0 +1,1 @@
+python $HOME/discord_bot/discord_bot.py

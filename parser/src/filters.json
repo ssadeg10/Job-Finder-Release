@@ -1,0 +1,17 @@
+{
+  "search_params": {
+    "Job Title 1": "San Francisco, CA",
+    "Job Title 2": "Seattle, WA"
+  },
+  "user": {
+    "years_exp": {
+      "Job Title 1": 4,
+      "Job Title 2": 2
+    },
+    "education": "Bachelor's degree"
+  },
+  "excluded_expanded_locations": ["United States (Remote)"],
+  "match_keywords": ["Skill 1", "Skill 2", "Skill 3"],
+  "excluded_title_words": ["Lead", "Principle", "Staff", "Manager"],
+  "excluded_companies": ["Company 1", "Company 2", "Company 3"]
+}
