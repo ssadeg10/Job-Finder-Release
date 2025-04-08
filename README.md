@@ -2,6 +2,8 @@
 
 A fully automated system that finds relevant job posts from LinkedIn based on search preferences and sends job matches as a Discord message.
 
+https://github.com/user-attachments/assets/98088623-f950-4b3c-9a5c-27ee7e7b04af
+
 ## Description
 
 The system is made up of two machines in an sort-of asynchronous master-slave configuration: one running the discord bot that acts as an interface and scheduler, and the other which does the job parsing.
